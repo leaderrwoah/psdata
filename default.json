@@ -10,6 +10,7 @@
       "current_storybattle_nodeid": -1,
       "first_login_today": "2024-10-21T21:07:38.000Z"
     },
+
     "personalityList": [],
     "egoList": [],
     "itemList": [
@@ -355,15 +356,15 @@
     "gachaList": [
       {
         "gachaId": 193,
-        "pityPoint": 200
+        "pityPoint": 11
       },
       {
         "gachaId": 194,
-        "pityPoint": 200
+        "pityPoint": 24
       },
       {
         "gachaId": 195,
-        "pityPoint": 200
+        "pityPoint": 32
       }
     ],
     "userUnlockCodeList": [
@@ -441,7 +442,7 @@
         "id": 0,
         "formationDetails": [
           {
-            "personalityId": 10101,
+            "personalityId": 10104,
             "egos": [
               20106,
               0,
@@ -449,56 +450,366 @@
               0,
               0
             ],
-            "isParticipated": false,
-            "participationOrder": 1
+            "isParticipated": true,
+            "participationOrder": 2
           },
           {
-            "personalityId": 10201,
+            "personalityId": 10210,
             "egos": [
               20201,
-              0,
-              0,
+              20207,
+              20202,
               0,
               0
             ],
-            "isParticipated": false,
+            "isParticipated": true,
             "participationOrder": 4
           },
           {
-            "personalityId": 10301,
+            "personalityId": 10309,
             "egos": [
               20301,
-              0,
-              0,
+              20306,
+              20303,
               0,
               0
             ],
-            "isParticipated": false,
+            "isParticipated": true,
             "participationOrder": 6
           },
           {
-            "personalityId": 10401,
+            "personalityId": 10410,
             "egos": [
               20401,
               0,
-              0,
+              20404,
               0,
               0
             ],
-            "isParticipated": false,
+            "isParticipated": true,
             "participationOrder": 5
           },
           {
-            "personalityId": 10501,
+            "personalityId": 10506,
             "egos": [
               20501,
+              20506,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 9
+          },
+          {
+            "personalityId": 10609,
+            "egos": [
+              20601,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 8
+          },
+          {
+            "personalityId": 10710,
+            "egos": [
+              20701,
+              20707,
+              20704,
+              20706,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 1
+          },
+          {
+            "personalityId": 10810,
+            "egos": [
+              20801,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 7
+          },
+          {
+            "personalityId": 10904,
+            "egos": [
+              20901,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 10
+          },
+          {
+            "personalityId": 11009,
+            "egos": [
+              21001,
+              0,
+              21004,
+              0,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 11
+          },
+          {
+            "personalityId": 11108,
+            "egos": [
+              21101,
+              0,
+              21107,
+              21106,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 12
+          },
+          {
+            "personalityId": 11209,
+            "egos": [
+              21201,
+              21206,
+              21207,
+              21205,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 3
+          }
+        ],
+        "formationNameFormat": [
+          {
+            "k": 3,
+            "v": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "formationDetails": [
+          {
+            "personalityId": 10101,
+            "egos": [
+              20101,
               0,
               0,
               0,
               0
             ],
             "isParticipated": false,
-            "participationOrder": 9
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10203,
+            "egos": [
+              20201,
+              0,
+              20202,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10304,
+            "egos": [
+              20301,
+              0,
+              20303,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10410,
+            "egos": [
+              20401,
+              0,
+              20404,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10506,
+            "egos": [
+              20501,
+              20506,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10606,
+            "egos": [
+              20601,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10709,
+            "egos": [
+              20701,
+              0,
+              20704,
+              20706,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10803,
+            "egos": [
+              20801,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10906,
+            "egos": [
+              20901,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 11009,
+            "egos": [
+              21001,
+              0,
+              21004,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 11109,
+            "egos": [
+              21101,
+              0,
+              21107,
+              21106,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 11205,
+            "egos": [
+              21201,
+              21206,
+              21207,
+              21205,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          }
+        ],
+        "formationNameFormat": [
+          {
+            "k": 3,
+            "v": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "formationDetails": [
+          {
+            "personalityId": 10104,
+            "egos": [
+              20106,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 3
+          },
+          {
+            "personalityId": 10210,
+            "egos": [
+              20201,
+              0,
+              20202,
+              0,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 4
+          },
+          {
+            "personalityId": 10309,
+            "egos": [
+              20301,
+              20306,
+              20303,
+              0,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 5
+          },
+          {
+            "personalityId": 10410,
+            "egos": [
+              20401,
+              0,
+              20404,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10506,
+            "egos": [
+              20501,
+              20506,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
           },
           {
             "personalityId": 10601,
@@ -510,18 +821,173 @@
               0
             ],
             "isParticipated": false,
-            "participationOrder": 8
+            "participationOrder": 0
           },
           {
-            "personalityId": 10701,
+            "personalityId": 10710,
             "egos": [
               20701,
+              0,
+              0,
+              20706,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 1
+          },
+          {
+            "personalityId": 10810,
+            "egos": [
+              20801,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 2
+          },
+          {
+            "personalityId": 10904,
+            "egos": [
+              20901,
               0,
               0,
               0,
               0
             ],
             "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 11009,
+            "egos": [
+              21001,
+              0,
+              21004,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 11106,
+            "egos": [
+              21101,
+              0,
+              21107,
+              21106,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 11209,
+            "egos": [
+              21201,
+              21206,
+              21207,
+              21205,
+              0
+            ],
+            "isParticipated": true,
+            "participationOrder": 6
+          }
+        ],
+        "formationNameFormat": [
+          {
+            "k": 3,
+            "v": 3
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "formationDetails": [
+          {
+            "personalityId": 10104,
+            "egos": [
+              20101,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10201,
+            "egos": [
+              20201,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10309,
+            "egos": [
+              20301,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10401,
+            "egos": [
+              20401,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10501,
+            "egos": [
+              20501,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10601,
+            "egos": [
+              20601,
+              0,
+              0,
+              0,
+              0
+            ],
+            "isParticipated": false,
+            "participationOrder": 0
+          },
+          {
+            "personalityId": 10710,
+            "egos": [
+              20701,
+              0,
+              0,
+              20706,
+              0
+            ],
+            "isParticipated": true,
             "participationOrder": 1
           },
           {
@@ -534,7 +1000,7 @@
               0
             ],
             "isParticipated": false,
-            "participationOrder": 7
+            "participationOrder": 0
           },
           {
             "personalityId": 10901,
@@ -546,10 +1012,10 @@
               0
             ],
             "isParticipated": false,
-            "participationOrder": 10
+            "participationOrder": 0
           },
           {
-            "personalityId": 11001,
+            "personalityId": 11009,
             "egos": [
               21001,
               0,
@@ -558,7 +1024,7 @@
               0
             ],
             "isParticipated": false,
-            "participationOrder": 11
+            "participationOrder": 0
           },
           {
             "personalityId": 11101,
@@ -570,7 +1036,7 @@
               0
             ],
             "isParticipated": false,
-            "participationOrder": 12
+            "participationOrder": 0
           },
           {
             "personalityId": 11201,
@@ -582,15 +1048,10 @@
               0
             ],
             "isParticipated": false,
-            "participationOrder": 3
+            "participationOrder": 0
           }
         ],
-        "formationNameFormat": [
-          {
-            "k": 3,
-            "v": 0
-          }
-        ]
+        "formationNameFormat": []
       }
     ],
     "mainChapterStateList": [
@@ -2726,21 +3187,171 @@
           90101
         ],
         "remaincount": 1,
-        "regdate": "2024-09-07T16:53:15.000Z",
-        "upddate": "2024-09-29T10:07:11.000Z"
+        "regdate": "2024-04-14T11:20:01.000Z",
+        "upddate": "2024-10-11T21:06:11.000Z"
       }
     ],
     "isResetMirrorDungeon": false
   },
   "result": {
     "profile": {
-      "public_uid": "RMEOW",
+      "public_uid": "RMEOWWWWWW",
       "illust_id": 10710,
       "illust_gacksung_level": 3,
       "sentence_id": 150,
       "word_id": 150,
-      "banners": [],
-      "support_personalities": [],
+      "banners": [
+        {
+          "id": 40,
+          "value": 79,
+          "value2": -1,
+          "idx": 0
+        },
+        {
+          "id": 42,
+          "value": -1,
+          "value2": -1,
+          "idx": 1
+        },
+        {
+          "id": 43,
+          "value": -1,
+          "value2": -1,
+          "idx": 2
+        },
+        {
+          "id": 44,
+          "value": -1,
+          "value2": -1,
+          "idx": 3
+        },
+        {
+          "id": 32,
+          "value": -1,
+          "value2": -1,
+          "idx": 4
+        }
+      ],
+      "support_personalities": [
+        {
+          "pid": 10710,
+          "l": 50,
+          "egos": [
+            {
+              "id": 20701,
+              "g": 3,
+              "idx": 0
+            },
+            {
+              "id": 20704,
+              "g": 3,
+              "idx": 2
+            }
+          ],
+          "gl": 4,
+          "gi": 1,
+          "idx": 0
+        },
+        {
+          "pid": 10210,
+          "l": 50,
+          "egos": [
+            {
+              "id": 20201,
+              "g": 3,
+              "idx": 0
+            }
+          ],
+          "gl": 4,
+          "gi": 1,
+          "idx": 1
+        },
+        {
+          "pid": 10410,
+          "l": 50,
+          "egos": [
+            {
+              "id": 20401,
+              "g": 3,
+              "idx": 0
+            },
+            {
+              "id": 20404,
+              "g": 3,
+              "idx": 2
+            }
+          ],
+          "gl": 3,
+          "gi": 1,
+          "idx": 2
+        },
+        {
+          "pid": 10609,
+          "l": 50,
+          "egos": [
+            {
+              "id": 20601,
+              "g": 3,
+              "idx": 0
+            }
+          ],
+          "gl": 4,
+          "gi": 1,
+          "idx": 3
+        },
+        {
+          "pid": 10808,
+          "l": 45,
+          "egos": [
+            {
+              "id": 20801,
+              "g": 3,
+              "idx": 0
+            }
+          ],
+          "gl": 4,
+          "gi": 1,
+          "idx": 4
+        },
+        {
+          "pid": 11209,
+          "l": 50,
+          "egos": [
+            {
+              "id": 21201,
+              "g": 3,
+              "idx": 0
+            },
+            {
+              "id": 21203,
+              "g": 2,
+              "idx": 1
+            },
+            {
+              "id": 21207,
+              "g": 3,
+              "idx": 2
+            }
+          ],
+          "gl": 3,
+          "gi": 1,
+          "idx": 5
+        },
+        {
+          "pid": 10506,
+          "l": 50,
+          "egos": [
+            {
+              "id": 20501,
+              "g": 3,
+              "idx": 0
+            }
+          ],
+          "gl": 3,
+          "gi": 1,
+          "idx": 6
+        }
+      ],
       "level": 9999,
       "date": "2024-10-22T15:12:01.000Z",
       "leftborder_id": 34,
