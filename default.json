@@ -2,10 +2,10 @@
     "updated": {
     "isInitialized": true,
     "userInfo": {
-      "uid": 15429639,
-      "level": 44,
-      "exp": 629,
-      "stamina": 75,
+      "uid": 1,
+      "level": 9999,
+      "exp": 9999,
+      "stamina": 9999,
       "last_stamina_recover": "2024-10-22T18:21:56.000Z",
       "current_storybattle_nodeid": -1,
       "first_login_today": "2024-10-21T21:07:38.000Z"
@@ -144,9 +144,9 @@
     "mailList": [],
     "battlePass": {
       "current_pass_id": 5,
-      "is_limbus": false,
-      "level": 69,
-      "exp": 1,
+      "is_limbus": true,
+      "level": 9999,
+      "exp": 9999,
       "today_rand_value": 9,
       "rewards_state": [
         1,
@@ -3185,7 +3185,7 @@
         "abilityids": [
           90101
         ],
-        "remaincount": 0,
+        "remaincount": 1,
         "regdate": "2024-09-07T16:53:15.000Z",
         "upddate": "2024-09-29T10:07:11.000Z"
       }
@@ -3194,7 +3194,7 @@
   },
     "result": {
     "profile": {
-      "public_uid": "R774599127",
+      "public_uid": "RMEOW",
       "illust_id": 10710,
       "illust_gacksung_level": 3,
       "sentence_id": 150,
