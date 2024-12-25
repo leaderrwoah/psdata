@@ -1,0 +1,212 @@
+{
+      "dungeonId": 5,
+      "idx": 0,
+      "currentInfo": {
+        "cn": {
+          "f": 0,
+          "s": 0,
+          "nid": 0
+        },
+        "eid": -1,
+        "pnids": [],
+        "egs": [],
+        "dul": [],
+        "nr": 0,
+        "pce": [],
+        "sepsId": 0,
+        "seps": [
+          {
+            "setId": 0,
+            "keyword": "Combustion",
+            "pool": [
+              9001,
+              9009,
+              9103
+            ]
+          },
+          {
+            "setId": 1,
+            "keyword": "Laceration",
+            "pool": [
+              9005,
+              9029,
+              9108
+            ]
+          },
+          {
+            "setId": 2,
+            "keyword": "Vibration",
+            "pool": [
+              9044,
+              9086,
+              9113
+            ]
+          },
+          {
+            "setId": 3,
+            "keyword": "Burst",
+            "pool": [
+              9047,
+              9093,
+              9117
+            ]
+          },
+          {
+            "setId": 4,
+            "keyword": "Sinking",
+            "pool": [
+              9041,
+              9054,
+              9124
+            ]
+          },
+          {
+            "setId": 5,
+            "keyword": "Breath",
+            "pool": [
+              9046,
+              9051,
+              9129
+            ]
+          },
+          {
+            "setId": 6,
+            "keyword": "Charge",
+            "pool": [
+              9043,
+              9052,
+              9134
+            ]
+          },
+          {
+            "setId": 7,
+            "keyword": "Slash",
+            "pool": [
+              9032,
+              9194,
+              9140
+            ]
+          },
+          {
+            "setId": 8,
+            "keyword": "Penetrate",
+            "pool": [
+              9030,
+              9198,
+              9145
+            ]
+          },
+          {
+            "setId": 9,
+            "keyword": "Hit",
+            "pool": [
+              9012,
+              9202,
+              9150
+            ]
+          }
+        ],
+        "sepsCreated": 1,
+        "tfs": [],
+        "tfps": [],
+        "tfpsCreated": 0,
+        "peids": [],
+        "rre": [],
+        "ess": [
+          {
+            "t": "CR",
+            "n": 0
+          },
+          {
+            "t": "SC",
+            "n": 0
+          },
+          {
+            "t": "AM",
+            "n": 0
+          },
+          {
+            "t": "SH",
+            "n": 0
+          },
+          {
+            "t": "AZ",
+            "n": 0
+          },
+          {
+            "t": "IN",
+            "n": 0
+          },
+          {
+            "t": "VI",
+            "n": 0
+          }
+        ],
+        "dn": 0,
+        "ri": 1,
+        "shop": {
+          "ph": 0,
+          "pup": 0,
+          "upid": 0,
+          "peg": [],
+          "pcf": 0,
+          "pabu": 0,
+          "pueg": 0,
+          "egpool": [],
+          "pseg": 0,
+          "rc": 0,
+          "fre": 0,
+          "fkre": 0,
+          "aec": 0,
+          "aesp": 0,
+          "upids": []
+        },
+        "cost": 200,
+        "usedcost": 0,
+        "prevdul": [],
+        "preves": [],
+        "etype": 0,
+        "upids": [],
+        "leveladders": [],
+        "startKeyword": "None",
+        "spid": [],
+        "startBufPoint": 0,
+        "cfs": [
+          {
+            "floor": -1,
+            "difficulty": 0
+          }
+        ],
+        "efs": {
+          "sbmlos": 0,
+          "egmlos": 0,
+          "rpf": 0,
+          "snft": 0
+        }
+      },
+      "dungeonMap": {
+        "ns": []
+      },
+      "choiceEventList": [],
+      "statistics": [],
+      "encounterstatistics": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isEndDungeon": 0,
+      "isReset": 0,
+      "version": 2,
+    }
